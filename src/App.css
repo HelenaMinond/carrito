@@ -31,7 +31,3 @@
     transform: rotate(360deg);
   }
 }
-
-div {
-  background: linear-gradient(to right, #360033, #0b8793);
-}
